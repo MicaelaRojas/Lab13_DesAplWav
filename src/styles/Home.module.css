@@ -1,0 +1,21 @@
+.main {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.container div {
+  flex: 1 0 20%;
+  margin: 30px;
+  border-radius: 16px;
+  box-shadow: -1px -7px 33px -3px rgba(0, 0, 0, 0.15);
+  background-color: whitesmoke;
+}
+.container h4 {
+  font-size: 1.8em;
+  text-transform: capitalize;
+}
