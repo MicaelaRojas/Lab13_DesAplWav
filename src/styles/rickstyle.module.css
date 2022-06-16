@@ -2,18 +2,12 @@
 .main {
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/edaa0b57088529.59c8bd95b5edc.gif"); 
-    
-
   }
-  
   .container {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
-   
-   
   }
-  
   .container div {
     flex: 1;
     margin: 30px;
@@ -22,7 +16,6 @@
     box-shadow: -1px -7px 33px -3px rgba(0, 0, 0, 9.0);
     
   }
-
   .container h4 {
     font-size: 1.8em;
        color: #02fb02;
